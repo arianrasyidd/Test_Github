@@ -12,3 +12,4 @@ print('tes')
 # git rm --cached (nama file) #Ngerubah status dari A ke U
 # git reset (id file) #buat balik ke commit awal tapi file setelahnya masih ada, hanya dianggap baru
 # git reset (id file) -- hard #buat ngehapus commit setelah itu
+# git merge (nama branch)
