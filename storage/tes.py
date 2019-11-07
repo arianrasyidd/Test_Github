@@ -14,3 +14,4 @@ print('tes')
 # git reset (id file) -- hard #buat ngehapus commit setelah itu
 # git merge (nama branch)
 # git pull master (kalo udah ditambahin di masternya sebelum ditambahin)
+# git clone (linknya) #buat ngecopy
