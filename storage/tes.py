@@ -13,3 +13,4 @@ print('tes')
 # git reset (id file) #buat balik ke commit awal tapi file setelahnya masih ada, hanya dianggap baru
 # git reset (id file) -- hard #buat ngehapus commit setelah itu
 # git merge (nama branch)
+# git pull master (kalo udah ditambahin di masternya sebelum ditambahin)
